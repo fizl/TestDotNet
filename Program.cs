@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 namespace TestDotNet {
     class Program {
         static void Main(string[] args) {
-            Console.WriteLine("test");
+            Console.WriteLine("test two");
         }
     }
 }
